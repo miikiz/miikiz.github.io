@@ -1,0 +1,57 @@
+h1{
+  color:WHITE;
+  font-size: 70px;
+  background-color: #20365A;
+  text-align:center;
+}
+
+h4{
+  font-size: 38px;
+  color: #20365A;
+  text-align: center;
+}
+
+h3{
+font-size: 40px;
+color:#20365A;
+text-align:center;
+}
+
+h2{
+  color:#20365A;
+  text-align: center;
+}
+
+body{
+background-color:WHITE;
+font-family: 'Quicksand', sans-serif;
+}
+
+img{
+  width: 1000px;
+  display: block;
+  margin: auto;
+}
+
+.mat:hover{
+border-radius: 100%;
+
+}
+
+p{
+font-size: 20px;
+color: #20365A;
+text-align: center;
+
+}
+
+.kladd{
+width: 400px;
+margin:auto;
+display:block;
+
+}
+
+.wow{
+  font-size: 23px;
+}
